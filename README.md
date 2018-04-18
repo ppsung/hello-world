@@ -1,5 +1,5 @@
 # hello-world
-My first repository
+My first repository.
 
 Hello world!
-Blah, blah, blah. Blah!
+Apples, oranges, bananas. Plums!
